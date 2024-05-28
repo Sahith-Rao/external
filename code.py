@@ -53,3 +53,4 @@ if result != -1:
     print(f"Minimum steps to get {target_amount} liters: {result}")
 else:
     print("No solution found.")
+print("done")
